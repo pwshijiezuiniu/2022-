@@ -1,4 +1,4 @@
-package com.pwalgo.class01.class02;
+package com.pwalgo.class02;
 
 public class Code02_DeleteGivenValue {
     public static void main(String[] args) {
